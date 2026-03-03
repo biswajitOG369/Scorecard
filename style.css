@@ -155,3 +155,8 @@ table tr td:nth-child(3){
     text-align: center;
     color: rgb(255, 179, 0);
 }
+tr:hover td {
+    background-color: #f0f8ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+}
