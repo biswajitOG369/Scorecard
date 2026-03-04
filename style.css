@@ -17,7 +17,7 @@ body{
     justify-content: space-evenly;
     margin-top: 20px;
     max-width: 500px;
-    margin-left: 390px;
+    margin-left: 500px;
     gap: 50px;
     
 
@@ -151,7 +151,7 @@ table tr td:nth-child(3){
     width: 1000px;
     justify-content: center;
     align-items: center;
-    margin-left: 140px;
+    margin-left: 270px;
     text-align: center;
     color: rgb(255, 179, 0);
 }
